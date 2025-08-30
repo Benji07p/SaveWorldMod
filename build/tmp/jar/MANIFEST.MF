@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Specification-Title: saveworld
+Specification-Vendor: example
+Specification-Version: 1.0
+Implementation-Title: saveworld
+Implementation-Version: 1.0
+Implementation-Vendor: example
+Implementation-Timestamp: 2025-05-18T13:43:25+0200
+

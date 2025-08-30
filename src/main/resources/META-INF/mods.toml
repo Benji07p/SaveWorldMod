@@ -1,0 +1,8 @@
+modLoader="javafml"
+loaderVersion="[40,)"
+license="MIT"
+[[mods]]
+modId="saveworld"
+version="1.0"
+displayName="SaveWorld"
+description='''Adds a command to copy the Overworld to another dimension.'''
